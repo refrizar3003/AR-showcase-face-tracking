@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mask
+* source:	https://sketchfab.com/3d-models/mask-792195d2ae1b4f11b73904473cdcd2fb
+* author:	FJ5226 (https://sketchfab.com/FJ5226)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mask" (https://sketchfab.com/3d-models/mask-792195d2ae1b4f11b73904473cdcd2fb) by FJ5226 (https://sketchfab.com/FJ5226) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
