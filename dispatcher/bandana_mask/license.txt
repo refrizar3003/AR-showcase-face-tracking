@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bandana_mask
+* source:	https://sketchfab.com/3d-models/bandana-mask-b0d1c64f6bf94578857451402fd4ef52
+* author:	sachin kumar (https://sketchfab.com/kayozz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bandana_mask" (https://sketchfab.com/3d-models/bandana-mask-b0d1c64f6bf94578857451402fd4ef52) by sachin kumar (https://sketchfab.com/kayozz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

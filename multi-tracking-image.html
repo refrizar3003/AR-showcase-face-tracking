@@ -1,0 +1,58 @@
+
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v7.0.0/dist/aframe-extras.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.5/dist/mindar-image-aframe.prod.js"></script>
+  </head>
+  <body>
+    <a-scene mindar-image="imageTargetSrc: ./targets.mind; maxTrack: 10" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+      <a-assets>
+        <a-asset-item id="eiffelModel" src="./assets/eiffel_tower/scene.gltf"></a-asset-item>
+        <a-asset-item id="windmillModel" src="./assets/windmill/scene.gltf"></a-asset-item>
+        <a-asset-item id="bigbenModel" src="./assets/big_ben/scene.gltf"></a-asset-item>
+        <a-asset-item id="burjkhalifaModel" src="./assets/burj_khalifa/scene.gltf"></a-asset-item>
+        <a-asset-item id="empirestateModel" src="./assets/empire_state/scene.gltf"></a-asset-item>
+        <a-asset-item id="pisaModel" src="./assets/pisa_tower/scene.gltf"></a-asset-item>
+        <a-asset-item id="pyramidModel" src="./assets/pyramid/scene.gltf"></a-asset-item>
+        <a-asset-item id="libertyModel" src="./assets/statue_liberty/scene.gltf"></a-asset-item>
+        <a-asset-item id="tokyotowerModel" src="./assets/tokyo_tower/scene.gltf"></a-asset-item>
+        <a-asset-item id="searsModel" src="./assets/sears_tower/scene.gltf"></a-asset-item>
+      </a-assets>
+
+      <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+
+      <a-entity mindar-image-target="targetIndex: 0">
+        <a-gltf-model rotation="0 0 0 " position="0.05 -0.25 0" scale="0.1 0.1 0.1" src="#bigbenModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 1">
+        <a-gltf-model rotation="0 0 0 " position="-0.2 -0.5 0" scale="0.2 0.2 0.2" src="#burjkhalifaModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 2">
+        <a-gltf-model rotation="0 0 0 " position="-0.1 -0.7 0" scale="0.0001 0.0001 0.0001" src="#empirestateModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 3">
+        <a-gltf-model rotation="0 0 0 " position="0 -0.3 0" scale="0.015 0.015 0.015" src="#libertyModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 4">
+        <a-gltf-model rotation="0 0 0 " position="0 -0.4 0" scale="0.07 0.07 0.07" src="#eiffelModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 5">
+        <a-gltf-model rotation="0 0 0 " position="0 -0.5 0" scale="0.007 0.007 0.007" src="#pisaModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 6">
+        <a-gltf-model rotation="0 0 0 " position="0 -0.1 0" scale="0.05 0.05 0.05" src="#pyramidModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 7">
+        <a-gltf-model rotation="0 0 0 " position="0 0.1 -0.3" scale="5.5 5.5 5.5" src="#searsModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 8">
+        <a-gltf-model rotation="0 0 0 " position="0 -0.5 0" scale="0.0045 0.0045 0.0045" src="#tokyotowerModel" animation-mixer>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 9">
+        <a-gltf-model rotation="0 -90 0 " position="0 -0.25 0" scale="10.0 10.0 10.0" src="#windmillModel" animation-mixer>
+      </a-entity>
+    </a-scene>
+  </body>
+</html>

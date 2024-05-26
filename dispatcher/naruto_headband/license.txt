@@ -1,0 +1,11 @@
+Model Information:
+* title:	Naruto Headband
+* source:	https://sketchfab.com/3d-models/naruto-headband-ff1d4d15eddd403ea4ba7716212a2899
+* author:	Calfan (https://sketchfab.com/Calfan)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Naruto Headband" (https://sketchfab.com/3d-models/naruto-headband-ff1d4d15eddd403ea4ba7716212a2899) by Calfan (https://sketchfab.com/Calfan) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

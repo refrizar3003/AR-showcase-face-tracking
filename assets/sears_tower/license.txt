@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sears Tower City Block Assembly by Justin Zummo
+* source:	https://sketchfab.com/3d-models/sears-tower-city-block-assembly-by-justin-zummo-fedb9d2e61154a7d9006b647087c2538
+* author:	jzummoGBS (https://sketchfab.com/jzummoGBS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sears Tower City Block Assembly by Justin Zummo" (https://sketchfab.com/3d-models/sears-tower-city-block-assembly-by-justin-zummo-fedb9d2e61154a7d9006b647087c2538) by jzummoGBS (https://sketchfab.com/jzummoGBS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
